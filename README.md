@@ -1,4 +1,4 @@
-<h2 align="left">Current activities<br>👨‍💻 I am Not a Programmer<br>🌱 I am currently learning JavaScript<br>🎯 Play Mobile legends and Minecraft</h2>
+<h2 align="left"👨‍💻 I am Not a Programmer<br>🌱 I am currently learning JavaScript<br>🎯 Play Mobile legends and Minecraft</h2>
 
 ###
 
